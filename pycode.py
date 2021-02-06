@@ -9,7 +9,7 @@ def sub(a, b):
         return c
     except:
         print("Division by zero not possible")
-        sys.exxit()
+        sys.exit()
 def mul(a, b):
     return a * b
 
